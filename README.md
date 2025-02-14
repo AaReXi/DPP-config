@@ -30,7 +30,7 @@ Before you start, make sure you have the following tools installed:
 To clone the repository, open a terminal and run the following command:
 
 ```bash
-git clone https://github.com/AaReXi/DISCORD.git
+git clone https://github.com/AaReXi/DPP-config.git
 cd DISCORD
 ```
 
