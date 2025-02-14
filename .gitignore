@@ -1,6 +1,16 @@
+# Ignore everything in the bin directory
+bin/*
+# But not the bin directory itself
+!bin/
+
+# Ignore the cache directory
+./.cache/
+.cache/
+.cache/*
+./.cache/*
+
+# Ignore build directory
 /build/
-/bin/
-/.cache/
 
 LICENSE
 README.md
