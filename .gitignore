@@ -1,5 +1,9 @@
 /build/
 /bin/
+/.cache/
+
+LICENSE
+README.md
 
 CMakeCache.txt
 CmakeFiles/
